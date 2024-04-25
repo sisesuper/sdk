@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-1d14d5cc","path":"/guide/plugin.html","title":"插件原理","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1670240536000,"contributors":[{"name":"yangxun","email":"yang.xun@tslsmart.com","commits":1}]},"filePathRelative":"guide/plugin.md"}');export{t as data};

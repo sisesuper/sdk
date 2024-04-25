@@ -1,0 +1,1 @@
+import{_ as a,o as r,c as t,a as e,b as s}from"./app.f18319b0.js";const c={},o=e("h1",{id:"自定义解析器",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#自定义解析器","aria-hidden":"true"},"#"),s(" 自定义解析器")],-1),n=[o];function _(d,i){return r(),t("div",null,n)}const l=a(c,[["render",_],["__file","parser.html.vue"]]);export{l as default};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-ae86bc8e","path":"/guide/scene.html","title":"场景操作","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1670240536000,"contributors":[{"name":"yangxun","email":"yang.xun@tslsmart.com","commits":1}]},"filePathRelative":"guide/scene.md"}');export{e as data};

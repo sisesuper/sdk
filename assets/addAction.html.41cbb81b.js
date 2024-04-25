@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-2f4d1276","path":"/example/miniapp/addAction.html","title":"添加执行动作","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1692957142000,"contributors":[{"name":"zhengqian","email":"zheng.qian@tslsmart.com","commits":1}]},"filePathRelative":"example/miniapp/addAction.md"}');export{e as data};

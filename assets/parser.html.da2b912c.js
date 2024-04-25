@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-716e08a4","path":"/guide/parser.html","title":"自定义解析器","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1670240536000,"contributors":[{"name":"yangxun","email":"yang.xun@tslsmart.com","commits":1}]},"filePathRelative":"guide/parser.md"}');export{e as data};

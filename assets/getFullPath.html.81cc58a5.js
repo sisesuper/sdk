@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-22260964","path":"/example/digital/getFullPath.html","title":"获取空间全路径目录树","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1697769787000,"contributors":[{"name":"zhengqian","email":"zheng.qian@tslsmart.com","commits":1}]},"filePathRelative":"example/digital/getFullPath.md"}');export{t as data};

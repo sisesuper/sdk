@@ -1,0 +1,1 @@
+import{_ as t,o as a,c,a as e,b as o}from"./app.f18319b0.js";const r={},s=e("h1",{id:"响应式原理",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#响应式原理","aria-hidden":"true"},"#"),o(" 响应式原理")],-1),n=e("p",null,"文档完善中。。。",-1),_=[s,n];function d(i,l){return a(),c("div",null,_)}const f=t(r,[["render",d],["__file","reactive.html.vue"]]);export{f as default};

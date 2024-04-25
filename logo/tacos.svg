@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 12</title>
+    <defs>
+        <circle id="path-1" cx="64" cy="64" r="64"></circle>
+        <filter x="-39.8%" y="-35.2%" width="179.7%" height="179.7%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="6" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="16" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.081846397   0 0 0 0 0.0941305518   0 0 0 0 0.309103261  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="编组-12" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="椭圆形">
+            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+            <use fill="#7983F5" fill-rule="evenodd" xlink:href="#path-1"></use>
+        </g>
+        <g id="编组-2" transform="translate(28.000000, 20.000000)">
+            <polygon id="路径-13" fill="#F4F4F4" points="32 54.0724752 19.811382 56.4108037 -2.77555756e-17 19.0265976 14.1987708 16.4108037"></polygon>
+            <polygon id="路径-13" fill="#FFFFFF" points="44 50.7195216 39.7754684 64.4108037 -1.22124533e-15 64.3013212 5.00767926 48.4108037"></polygon>
+            <polygon id="路径-13" fill="#F4F4F4" points="47.2246352 40.4108037 56 49.9352532 34.1276909 84.4108037 24 73.2656879"></polygon>
+            <polygon id="路径-6" fill="#DEDEDE" transform="translate(32.003933, 61.792560) rotate(3.000000) translate(-32.003933, -61.792560) " points="24.6114262 73.6688579 39.3964401 50.0665674 35.9845664 49.9162627"></polygon>
+            <polygon id="路径-13" fill="#FFFFFF" points="40 34.7491322 52.188618 32.4108037 72 69.7950098 57.8012292 72.4108037"></polygon>
+            <polygon id="路径-13" fill="#F4F4F4" transform="translate(50.568876, 31.621868) rotate(50.000000) translate(-50.568876, -31.621868) " points="39.7986891 53.3960529 33.2154897 42.0350127 60.3527393 9.84768374 67.9222621 23.1184309"></polygon>
+            <polygon id="路径-4备份" fill="#DEDEDE" transform="translate(54.360624, 39.511538) rotate(-240.000000) translate(-54.360624, -39.511538) " points="47.3353322 27.5062398 61.3859164 48.7769165 59.5945096 51.5168366"></polygon>
+            <polygon id="路径-13" fill="#FFFFFF" transform="translate(33.859609, 21.926529) rotate(350.000000) translate(-33.859609, -21.926529) " points="19.8302355 26.4959231 40.3193466 2.135505 47.8889823 15.4255053 23.5229908 41.7175527"></polygon>
+            <polygon id="路径-4" fill="#DEDEDE" points="14.1987708 16.4108037 28.8345043 40.8356497 27.0103123 43.5274637"></polygon>
+        </g>
+    </g>
+</svg>

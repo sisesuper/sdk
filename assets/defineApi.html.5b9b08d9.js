@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-e02d28c6","path":"/example/miniapp/defineApi.html","title":"定义接口","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1692957142000,"contributors":[{"name":"zhengqian","email":"zheng.qian@tslsmart.com","commits":1}]},"filePathRelative":"example/miniapp/defineApi.md"}');export{e as data};

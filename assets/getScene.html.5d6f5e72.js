@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-4ef5f664","path":"/example/digital/getScene.html","title":"获取场景实例","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1697769787000,"contributors":[{"name":"zhengqian","email":"zheng.qian@tslsmart.com","commits":1}]},"filePathRelative":"example/digital/getScene.md"}');export{e as data};

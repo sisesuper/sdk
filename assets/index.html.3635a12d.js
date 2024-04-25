@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-ce20e166","path":"/video/","title":"完善中...","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1692686366000,"contributors":[{"name":"yangxun","email":"yang.xun@tslsmart.com","commits":2},{"name":"zhengqian","email":"zheng.qian@tslsmart.com","commits":1}]},"filePathRelative":"video/readme.md"}');export{e as data};

@@ -1,0 +1,1 @@
+import{_ as t,o as a,c,a as e,b as n}from"./app.f18319b0.js";const o={},r=e("h1",{id:"完善中",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#完善中","aria-hidden":"true"},"#"),n(" 完善中...")],-1),s=[r];function _(d,i){return a(),c("div",null,s)}const l=t(o,[["render",_],["__file","index.html.vue"]]);export{l as default};

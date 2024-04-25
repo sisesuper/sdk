@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-0972bd50","path":"/example/video/video.html","title":"完善中...","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1692686366000,"contributors":[{"name":"zhengqian","email":"zheng.qian@tslsmart.com","commits":1}]},"filePathRelative":"example/video/video.md"}');export{e as data};

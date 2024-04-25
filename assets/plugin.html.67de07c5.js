@@ -1,0 +1,1 @@
+import{_ as t,o as a,c,a as e,b as n}from"./app.f18319b0.js";const o={},s=e("h1",{id:"插件原理",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#插件原理","aria-hidden":"true"},"#"),n(" 插件原理")],-1),r=e("p",null,"文档完善中。。。",-1),_=[s,r];function d(i,l){return a(),c("div",null,_)}const u=t(o,[["render",d],["__file","plugin.html.vue"]]);export{u as default};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-01ea3e03","path":"/example/digital/command.html","title":"对空间下的设备下发指令","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1697769787000,"contributors":[{"name":"zhengqian","email":"zheng.qian@tslsmart.com","commits":1}]},"filePathRelative":"example/digital/command.md"}');export{e as data};

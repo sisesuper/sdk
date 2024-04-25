@@ -1,0 +1,1 @@
+import{_ as o,o as t,c as a,a as e,b as c}from"./app.f18319b0.js";const s={},d=e("h1",{id:"lod",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#lod","aria-hidden":"true"},"#"),c(" lod")],-1),n=e("p",null,"开发中...",-1),r=[d,n];function _(l,i){return t(),a("div",null,r)}const f=o(s,[["render",_],["__file","lod.html.vue"]]);export{f as default};
